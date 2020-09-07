@@ -6,7 +6,7 @@ public class PlayerMovement : MonoBehaviour {
 
 	
 	
-	public float speed = 5f;
+	public float speed = 13f;
 	public GameObject menu;
 	public float torque;
 	public Rigidbody plane;
